@@ -1,0 +1,7 @@
+{
+    "require": {
+        "guzzlehttp/guzzle": "^7.4",
+        "phpmailer/phpmailer": "^6.5",
+        "curl/curl": "^2.3"
+    }
+}
