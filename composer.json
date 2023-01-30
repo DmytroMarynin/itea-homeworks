@@ -1,4 +1,12 @@
 {
+    "name": "dmytromarynin/itea-homework",
+    "description": "default composer settings",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "HwOop\\": "hw-oop/"
+        }
+    },
     "require": {
         "guzzlehttp/guzzle": "^7.4",
         "phpmailer/phpmailer": "^6.5",
